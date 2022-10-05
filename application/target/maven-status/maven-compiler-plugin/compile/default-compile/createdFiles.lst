@@ -1,0 +1,15 @@
+com\newage\fx\lookupdata\application\dto\response\CallEntryEfsResponseDTO.class
+com\newage\fx\lookupdata\application\GlobalDTOMapper.class
+com\newage\fx\lookupdata\application\ResponseDTO.class
+com\newage\fx\lookupdata\application\configuration\SecurityConfig.class
+com\newage\fx\lookupdata\application\configuration\RestExceptionHandler.class
+com\newage\fx\lookupdata\application\configuration\JpaConfiguration.class
+com\newage\fx\lookupdata\application\dto\mapper\CallEntryNxtToEfsMapper.class
+com\newage\fx\lookupdata\application\configuration\RestAccessDeniedHandler.class
+com\newage\fx\lookupdata\application\configuration\AuditorAwareImpl.class
+com\newage\fx\lookupdata\application\configuration\BeanConfiguration.class
+com\newage\fx\lookupdata\application\dto\response\CallEntryNxtResponseDTO.class
+com\newage\fx\lookupdata\application\dto\ResponseError.class
+com\newage\fx\lookupdata\Application.class
+com\newage\fx\lookupdata\application\configuration\HibernateEventConfiguration.class
+com\newage\fx\lookupdata\application\controller\EfsMobileCallEntryController.class
